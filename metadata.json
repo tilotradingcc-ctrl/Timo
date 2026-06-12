@@ -1,0 +1,6 @@
+{
+  "name": "PrintPOS",
+  "description": "Point of Sale (POS), quotation, and inventory management tailored for small printing equipment businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

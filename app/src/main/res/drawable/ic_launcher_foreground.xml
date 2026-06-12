@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- OVERLAPPING CMYK PRINT MARKS FOR PROFESSIONAL IDENTITY -->
+
+    <!-- Cyan Cyan (C) Roller Element -->
+    <path
+        android:fillColor="#0284C7"
+        android:fillAlpha="0.80"
+        android:pathData="M 44,48 A 16,16 0 1 1 44.01,48 Z" />
+
+    <!-- Magenta (M) Roller Element -->
+    <path
+        android:fillColor="#DB2777"
+        android:fillAlpha="0.80"
+        android:pathData="M 64,48 A 16,16 0 1 1 64.01,48 Z" />
+
+    <!-- Yellow (Y) Roller Element -->
+    <path
+        android:fillColor="#EAB308"
+        android:fillAlpha="0.80"
+        android:pathData="M 54,64 A 16,16 0 1 1 54.01,64 Z" />
+
+    <!-- Pure White Central Alignment Laser Point (Precision symbol) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,42 L 54,70 M 40,56 L 68,56"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FFFFFF" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,56 A 6,6 0 1 1 54.01,56 Z" />
+</vector>
